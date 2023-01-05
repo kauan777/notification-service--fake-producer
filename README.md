@@ -17,6 +17,8 @@ $ yarn
 
 ## Crie a conta no upstash
 
+<a href="https://upstash.com/">Clique aqui para criar<a/>
+
 ## Em producer.js, troque minhas informações pelas minhas
 
 ```js
@@ -41,3 +43,14 @@ const kafka = new Kafka({
 ```env
 PASSWORD=SUA SENHA
 ```
+
+<br/>
+
+## Rode o projeto
+
+```bash
+node producer.js
+```
+
+
+
